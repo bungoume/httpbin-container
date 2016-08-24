@@ -1,7 +1,7 @@
 # httpbin-container
 [httpbin](https://httpbin.org/) in docker container.
 
-This application outputs [ltsv-formatted](http://ltsv.org/) access log.
+This application outputs [ltsv-format](http://ltsv.org/) access log.
 
 
 # Usage
